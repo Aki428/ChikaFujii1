@@ -6,4 +6,4 @@
 - macOS laptop : MacBook Air M1
 - Based on windows 11 for gaming 🎮
 - W11 Desktop : I3-13100f; RX6600
-- Chainsaw Man fan ⛓️🪚🚪
+- Chainsaw Man enjoyer ⛓️🪚🚪
