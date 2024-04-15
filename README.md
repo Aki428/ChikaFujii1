@@ -1,9 +1,10 @@
 - ChikaFujii1
 - Want to be software engineer
-- Actually 18yo
+- Actually 19yo
 - Studying in Btech National Higher Diploma 📚
 - Based on macOS for coding 💻
 - macOS laptop : MacBook Air M1
+- macOS version : Sonoma 14.4.1
 - Based on windows 11 for gaming 🎮
 - W11 Desktop : I3-13100f; RX6600
 - Chainsaw Man enjoyer ⛓️🪚🚪
